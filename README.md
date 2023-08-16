@@ -3,7 +3,7 @@
 This repository contains all the resources used in the development process of an underwater surveillance and ocean health monitoring system.
 
 ### System Architecture
-![Schematic](resources\DianaSchematic.jpg)
+![Schematic](\resources\DianaSchematic.jpg)  
 
 The system of is comprised of an array of smart underwater buoys and a data collection device mounted on a vessel.
 
